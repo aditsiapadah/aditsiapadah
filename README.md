@@ -93,61 +93,25 @@ const aditya = {
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind,bootstrap,vite"/>
 
 <br><br>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"/>
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel"/>
 
 <br><br>
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb"/>
-
-<br><br>
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=kotlin,flutter"/>
+<img src="https://skillicons.dev/icons?i=mysql,mariadb"/>
 
 <br><br>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/aditsiapadah">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/your-instagram">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,chatgpt,gemini"/>
 
 </div>
 
@@ -161,33 +125,6 @@ const aditya = {
 > — John Johnson
 
 </div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img 
-width="49%" 
-src="https://github-readme-stats.vercel.app/api?username=aditsiapadah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
-
-<img 
-width="49%" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsiapadah&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aditsiapadah&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 
 ---
 
@@ -217,29 +154,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=aditsiapadah
 
 
 ---
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img 
-src="https://github-profile-trophy.vercel.app/?username=aditsiapadah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"
-/>
-
-</div>
-
-
----
-
----
-
-# 📊 Developer Metrics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aditsiapadah/aditsiapadah/master/metrics.svg">
-
-</div>
 
 ---
 
