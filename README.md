@@ -243,34 +243,6 @@ src="https://github-profile-trophy.vercel.app/?username=aditsiapadah&theme=tokyo
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-
-<a href="https://github.com/aditsiapadah">
-
-<img 
-src="https://github-readme-stats.vercel.app/api/pin/?username=aditsiapadah&repo=YOUR_PROJECT_NAME&theme=tokyonight&hide_border=true"
-/>
-
-</a>
-
-
-<a href="https://github.com/aditsiapadah">
-
-<img 
-src="https://github-readme-stats.vercel.app/api/pin/?username=aditsiapadah&repo=YOUR_PROJECT_NAME&theme=tokyonight&hide_border=true"
-/>
-
-</a>
-
-
-</div>
-
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -283,53 +255,6 @@ src="https://raw.githubusercontent.com/aditsiapadah/aditsiapadah/output/github-c
 
 
 ---
-
-# 📌 My Development Journey
-
-```text
-2024
-│
-├── Started Web Development
-│
-├── Learned HTML, CSS, JavaScript
-│
-└── Built First Projects
-
-
-2025
-│
-├── Improved React & Backend Skills
-│
-├── Learned Laravel & Database Design
-│
-└── Created Full Stack Applications
-
-
-2026
-│
-├── Exploring Cloud & DevOps
-│
-├── Building Bigger Projects
-│
-└── Contributing To Open Source
-```
-
----
-
-# ⚡ Daily Developer Mode
-
-<div align="center">
-
-```text
-☕ Coffee      →  Fuel
-💻 Coding      →  Passion
-🐛 Debugging   →  Learning
-🚀 Building    →  Growth
-```
-
-</div>
-
-
 ---
 
 # 📫 Contact
