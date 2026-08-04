@@ -173,7 +173,7 @@ If you want to collaborate or just say hello, feel free to reach out.
 
 <br>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:your-242510283@smkn4-tsm.sch.id">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
