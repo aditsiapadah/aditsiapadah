@@ -1,60 +1,58 @@
-# Hi 👋, I'm Aditya Dwi Saputra
+<h1 align="center">Hi 👋, I'm Nama Kamu</h1>
+<h3 align="center">A Web & Mobile Developer</h3>
 
-💻 Laravel Developer | Web Developer  
-🚀 Passionate about building useful applications
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on POS Application using Laravel
-- 🌱 Learning Laravel, Filament, Tailwind CSS
-- 💡 Interested in Web Development
-- 📍 Indonesia
+<p align="center">
+  Deskripsi singkat tentang diri kamu
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 📬 Connect With Me
 
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+<p align="left">
+<a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
 
-## 📌 Featured Project
+## 🚀 Core Tech Stack
 
-### 🛒 POS Application
-
-Point of Sale System built with:
-
-- Laravel 12
-- MySQL
-- Tailwind CSS
-- QRIS Payment
-- Dashboard Analytics
-
-Repository:
-👉 APK_POS_NEW
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,kotlin" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Other Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditsiapadah&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditsiapadah&layout=compact&theme=tokyonight)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vite,nodejs,express,php,mysql,firebase,git,github,vscode,figma" />
+</p>
 
 ---
 
-## 📫 Contact
+## 📊 Statistics
 
-Email: your-email@example.com
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark"/>
+</p>
