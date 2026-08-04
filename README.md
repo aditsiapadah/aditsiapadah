@@ -231,6 +231,18 @@ src="https://github-profile-trophy.vercel.app/?username=aditsiapadah&theme=tokyo
 
 ---
 
+---
+
+# 📊 Developer Metrics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aditsiapadah/aditsiapadah/master/metrics.svg">
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
 <div align="center">
