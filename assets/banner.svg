@@ -1,0 +1,93 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320">
+<stop stop-color="#050505"/>
+<stop offset="0.5" stop-color="#220000"/>
+<stop offset="1" stop-color="#ff0000"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+</filter>
+
+</defs>
+
+
+<rect width="1200" height="320" fill="url(#bg)"/>
+
+
+<!-- Animated glow -->
+
+<circle cx="150" cy="150" r="80" fill="#ff0000" opacity="0.25">
+<animate attributeName="r"
+values="80;120;80"
+dur="4s"
+repeatCount="indefinite"/>
+</circle>
+
+
+<circle cx="1050" cy="200" r="100" fill="#ff0000" opacity="0.15">
+<animate attributeName="r"
+values="100;150;100"
+dur="5s"
+repeatCount="indefinite"/>
+</circle>
+
+
+<!-- Grid -->
+
+<path d="M0 250H1200"
+stroke="#ffffff"
+opacity="0.1"/>
+
+<path d="M0 280H1200"
+stroke="#ffffff"
+opacity="0.05"/>
+
+
+<!-- Text -->
+
+<text 
+x="600"
+y="120"
+fill="white"
+font-size="52"
+font-family="Poppins, Arial"
+font-weight="700"
+text-anchor="middle">
+
+Aditya Dwi Saputra
+
+</text>
+
+
+<text 
+x="600"
+y="180"
+fill="#FFD700"
+font-size="28"
+font-family="Poppins, Arial"
+text-anchor="middle">
+
+Full Stack Developer
+
+</text>
+
+
+<text 
+x="600"
+y="225"
+fill="white"
+opacity="0.8"
+font-size="20"
+font-family="Poppins, Arial"
+text-anchor="middle">
+
+React • Next.js • Laravel • Mobile Development
+
+</text>
+
+
+</svg>
