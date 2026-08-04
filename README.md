@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Aditya%20Dwi%20Saputra&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn"/>
+<img src="./assets/banner.svg" width="100%">
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=FF4D4D&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Laravel;Always+Learning+New+Things;Open+Source+Enthusiast"/>
 
