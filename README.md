@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=F7C52D&center=true&vCenter=true&width=700&lines=Hi+I'm+Satria+Bahari;Web+Developer;Mobile+Developer;Always+Learning+New+Things" />
+</p>
 <h1 align="center">Hi 👋, I'm Nama Kamu</h1>
 <h3 align="center">A Web & Mobile Developer</h3>
 
