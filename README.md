@@ -36,11 +36,9 @@ const aditya = {
         "JavaScript",
         "TypeScript",
         "PHP",
-        "Kotlin"
     ],
 
     frontend: [
-        "React",
         "Next.js",
         "Tailwind CSS",
         "Bootstrap"
@@ -49,13 +47,11 @@ const aditya = {
     backend: [
         "Laravel",
         "Node.js",
-        "Express.js"
     ],
 
     database: [
         "MySQL",
-        "PostgreSQL",
-        "Firebase"
+        "MariaDB",
     ],
 
     tools: [
@@ -63,8 +59,6 @@ const aditya = {
         "GitHub",
         "Figma",
         "VS Code",
-        "Android Studio",
-        "Postman"
     ],
 
     currentlyLearning: [
@@ -105,13 +99,13 @@ const aditya = {
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mariadb"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 <br><br>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,chatgpt,gemini"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 
 </div>
 
